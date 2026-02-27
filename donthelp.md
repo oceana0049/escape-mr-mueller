@@ -1,3 +1,3 @@
-[Stay on the chair](stayonthchair.md)
+[Stay on the chair](endingb.md)
 or
 [Free yourself](freeyourself.md)
