@@ -1,3 +1,3 @@
-[Exit the basement](stayinthecloset.md)
+[Exit the basement](endingb.md)
 or
 [Break the window](endingc.md)
