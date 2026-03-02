@@ -1,1 +1,1 @@
-<img src="https://tenor.com/search/you-died-gifs" alt="Description of Gif" width="500"/>
+<div class="tenor-gif-embed" data-postid="18865199" data-share-method="host" data-aspect-ratio="1.68421" data-width="100%"><a href="https://tenor.com/view/dead-gif-18865199">Dead GIF</a>from <a href="https://tenor.com/search/dead-gifs">Dead GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
