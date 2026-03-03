@@ -1,0 +1,2 @@
+You decide to hide under the bed. As you lay uncomfortably, you hear Mr. Mueller approaching down the creaking steps. You see his feet shuffle closer, as your heart pounds. Then, his head peeks under the bed, and glares at you dead in the eyes with that eerie smile. He pulls out a high-tech looking gun, aiming it at you. "I'm sending you to the void." He says. He presses the trigger, as it all goes black.
+[Wake up in void](endingb.md)
